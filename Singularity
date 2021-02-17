@@ -3,7 +3,7 @@ From: registry.gitlab.com/rode0day/fuzzer-testing/symcc_runner:20.04
 
 %labels
     MAINTAINER Josh Bundt
-    DockerTagID 9c4116dce
+    DockerTagID 42394ccca
 
 %environment
     AFL_SKIP_CPUFREQ=1
